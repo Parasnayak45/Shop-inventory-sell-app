@@ -29,4 +29,4 @@ def show_products():
 
 
 # TEST
-show_products()
+#show_products()

@@ -28,4 +28,4 @@ def inventory_value():
 
 
 # TEST
-inventory_value()
+#inventory_value()

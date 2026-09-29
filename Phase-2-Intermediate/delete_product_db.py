@@ -23,4 +23,4 @@ def delete_product():
 
 
 # TEST
-delete_product()
+#delete_product()

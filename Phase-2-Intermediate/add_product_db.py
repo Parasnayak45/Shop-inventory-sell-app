@@ -22,4 +22,4 @@ def add_product():
 
 
 # TEST
-add_product()
+#add_product()

@@ -24,4 +24,4 @@ def update_stock():
 
 
 # TEST
-update_stock()
+#update_stock()
